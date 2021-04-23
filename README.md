@@ -1,4 +1,5 @@
 ---
+//hello
 page_type: sample
 languages:
 - javascript
